@@ -17,13 +17,13 @@ MindMirrorVR is a virtual reality application designed to help users practice pu
   Text appears in front of the speaker to guide the flow of their presentation.
 
 - 🎮 **Controller-Based Navigation**  
-  Navigate through speech prompts using the Meta XR Interaction Toolkit and Quest controllers (or keyboard arrows in fallback mode).
+  Navigate through speech prompts using the Meta XR Interaction Toolkit and Quest controllers.
 
 - ⚠️ **Simulated Speaking Challenges**  
   Improve resilience with real-world distractions such as:  
   - Sudden **red spotlight changes**  
   - **Audience coughing** or falling completely **silent**  
-  - **Microphone echo** or feedback  
+  - **Microphone echo**   
   These dynamic events train users to maintain composure under pressure.
 
 ---
